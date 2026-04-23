@@ -1,0 +1,224 @@
+[INFO ] 2026-01-24 17:07:54.797 [main] class - Browser Open
+[INFO ] 2026-01-24 17:07:55.060 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 17:07:59.288 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 17:07:59.427 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 17:07:59.428 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 17:07:59.530 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 17:07:59.530 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 17:07:59.897 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (bd0292ed5a3db5859d302d3354c5c80f)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 17:08:09.899 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 17:08:09.998 [main] Login - Login click:[[ChromeDriver: chrome on windows (bd0292ed5a3db5859d302d3354c5c80f)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 17:08:09.998 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 17:09:00.961 [main] class - Browser Open
+[INFO ] 2026-01-24 17:09:01.117 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 17:09:05.770 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 17:09:05.905 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 17:09:05.905 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 17:09:06.002 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 17:09:06.002 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 17:09:06.127 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (2075af282ef0f70c834e34f5ac75edce)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 17:09:16.128 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 17:09:16.239 [main] Login - Login click:[[ChromeDriver: chrome on windows (2075af282ef0f70c834e34f5ac75edce)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 17:09:16.239 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 17:21:42.463 [main] class - Browser Open
+[INFO ] 2026-01-24 17:21:42.715 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 17:21:43.387 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 17:21:43.568 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 17:21:43.568 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 17:21:43.684 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 17:21:43.684 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 17:21:43.968 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (ab21f1443c7aad9567933e4bc2bb70e3)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 17:21:53.969 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 17:21:54.075 [main] Login - Login click:[[ChromeDriver: chrome on windows (ab21f1443c7aad9567933e4bc2bb70e3)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 17:21:54.076 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 17:25:55.796 [main] class - Browser Open
+[INFO ] 2026-01-24 17:25:56.050 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 17:25:57.068 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 17:25:57.254 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 17:25:57.254 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 17:25:57.372 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 17:25:57.372 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 17:25:57.628 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (1de21be6fbc8cabb66ad80fa0b8e1e0b)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 17:26:07.647 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 17:26:07.762 [main] Login - Login click:[[ChromeDriver: chrome on windows (1de21be6fbc8cabb66ad80fa0b8e1e0b)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 17:26:07.762 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 21:21:55.421 [main] class - Browser Open
+[INFO ] 2026-01-24 21:21:55.730 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 21:21:58.610 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 21:21:58.915 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:21:58.915 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:21:59.137 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 21:21:59.137 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 21:21:59.345 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (975658494851952d717bf4df38ff84cc)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 21:22:09.353 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 21:22:09.552 [main] Login - Login click:[[ChromeDriver: chrome on windows (975658494851952d717bf4df38ff84cc)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 21:22:09.552 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 21:26:59.915 [main] class - Browser Open
+[INFO ] 2026-01-24 21:27:00.217 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 21:27:02.162 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 21:27:02.396 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:27:02.396 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:27:02.555 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 21:27:02.555 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 21:27:02.777 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (20c268ff5675e83250e3f693349cf120)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 21:27:12.794 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 21:27:12.930 [main] Login - Login click:[[ChromeDriver: chrome on windows (20c268ff5675e83250e3f693349cf120)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 21:27:12.930 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 21:28:05.190 [main] class - Browser Open
+[INFO ] 2026-01-24 21:28:05.507 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 21:28:06.592 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 21:28:06.815 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:28:06.818 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:28:06.974 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 21:28:06.974 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 21:28:07.152 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (13624015f67931b030ed7ae09c55e421)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 21:28:17.168 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 21:28:17.294 [main] Login - Login click:[[ChromeDriver: chrome on windows (13624015f67931b030ed7ae09c55e421)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 21:28:17.294 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 21:28:17.964 [main] Login - Force Login clicked
+[INFO ] 2026-01-24 21:28:17.966 [main] Stepdefinition - Force Login clicked
+[INFO ] 2026-01-24 21:28:17.977 [main] class - Application Closed
+[INFO ] 2026-01-24 21:30:38.646 [main] class - Browser Open
+[INFO ] 2026-01-24 21:30:38.917 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 21:30:39.938 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 21:30:40.134 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:30:40.134 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:30:40.268 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 21:30:40.268 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 21:30:40.541 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (70d9a1c3be828c4ed9560c47bae1dab5)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 21:30:50.555 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 21:30:50.711 [main] Login - Login click:[[ChromeDriver: chrome on windows (70d9a1c3be828c4ed9560c47bae1dab5)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 21:30:50.711 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 21:30:51.396 [main] Login - Force Login clicked
+[INFO ] 2026-01-24 21:30:51.396 [main] Stepdefinition - Force Login clicked
+[INFO ] 2026-01-24 21:30:51.413 [main] class - Application Closed
+[INFO ] 2026-01-24 21:32:55.700 [main] class - Browser Open
+[INFO ] 2026-01-24 21:32:55.993 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 21:32:58.370 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 21:32:58.632 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:32:58.632 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:32:58.808 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 21:32:58.808 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 21:32:58.978 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (fa7e57852702822bc210301ad34edd23)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 21:33:08.994 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 21:33:09.145 [main] Login - Login click:[[ChromeDriver: chrome on windows (fa7e57852702822bc210301ad34edd23)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 21:33:09.145 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 21:33:09.814 [main] Login - Force Login clicked
+[INFO ] 2026-01-24 21:33:09.814 [main] Stepdefinition - Force Login clicked
+[INFO ] 2026-01-24 21:36:43.323 [main] class - Browser Open
+[INFO ] 2026-01-24 21:36:43.533 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 21:36:46.092 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 21:36:46.330 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:36:46.330 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:36:46.510 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 21:36:46.510 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 21:36:46.698 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (f55405427a784beb568c805d39533990)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 21:36:56.716 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 21:36:56.873 [main] Login - Login click:[[ChromeDriver: chrome on windows (f55405427a784beb568c805d39533990)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 21:36:56.878 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 21:36:57.563 [main] Login - Force Login clicked
+[INFO ] 2026-01-24 21:36:57.563 [main] Stepdefinition - Force Login clicked
+[INFO ] 2026-01-24 21:39:40.693 [main] class - Browser Open
+[INFO ] 2026-01-24 21:39:40.985 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-01-24 21:39:42.178 [main] Stepdefinition - URL Opened
+[INFO ] 2026-01-24 21:39:42.387 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:39:42.389 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-01-24 21:39:42.536 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-01-24 21:39:42.536 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-01-24 21:39:42.747 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (9cd969185a382ff1984e439c5c8026f2)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-01-24 21:39:52.760 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-01-24 21:39:52.931 [main] Login - Login click:[[ChromeDriver: chrome on windows (9cd969185a382ff1984e439c5c8026f2)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-01-24 21:39:52.931 [main] Stepdefinition - Login clicked
+[INFO ] 2026-01-24 21:40:08.370 [main] Login - Force Login clicked
+[INFO ] 2026-01-24 21:40:08.376 [main] Stepdefinition - Force Login clicked
+[INFO ] 2026-01-24 21:40:18.522 [main] Login - Enter OTP
+[INFO ] 2026-01-24 21:40:18.522 [main] Stepdefinition - OTP Entered
+[INFO ] 2026-01-24 21:40:24.657 [main] Login - Second captcha entered
+[INFO ] 2026-01-24 21:40:24.657 [main] Stepdefinition - Second Captcha
+[INFO ] 2026-01-24 21:40:29.959 [main] Login - Final Verify
+[INFO ] 2026-01-24 21:40:30.965 [main] Stepdefinition - Verified
+[INFO ] 2026-01-24 21:40:30.969 [main] class - Application Closed
+[INFO ] 2026-02-04 23:03:31.083 [main] class - Browser Open
+[INFO ] 2026-02-04 23:03:31.388 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-02-04 23:03:35.501 [main] Stepdefinition - URL Opened
+[INFO ] 2026-02-04 23:03:35.826 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-02-04 23:03:35.826 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-02-04 23:03:36.033 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-02-04 23:03:36.033 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-02-04 23:03:36.250 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (f9117c03abc8f6e4514cbffa65a4d54c)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-02-04 23:03:46.260 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-02-04 23:03:46.428 [main] Login - Login click:[[ChromeDriver: chrome on windows (f9117c03abc8f6e4514cbffa65a4d54c)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-02-04 23:03:46.428 [main] Stepdefinition - Login clicked
+[INFO ] 2026-02-04 23:04:29.976 [main] Login - Force Login clicked
+[INFO ] 2026-02-04 23:04:29.976 [main] Stepdefinition - Force Login clicked
+[INFO ] 2026-02-04 23:04:40.121 [main] Login - Enter OTP
+[INFO ] 2026-02-04 23:04:40.121 [main] Stepdefinition - OTP Entered
+[INFO ] 2026-02-04 23:04:46.311 [main] Login - Second captcha entered
+[INFO ] 2026-02-04 23:04:46.311 [main] Stepdefinition - Second Captcha
+[INFO ] 2026-02-04 23:04:47.344 [main] Login - Final Verify
+[INFO ] 2026-02-04 23:04:48.354 [main] Stepdefinition - Verified
+[INFO ] 2026-02-04 23:04:48.359 [main] class - Application Closed
+[INFO ] 2026-02-04 23:06:00.282 [main] class - Browser Open
+[INFO ] 2026-02-04 23:06:00.560 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-02-04 23:06:05.298 [main] Stepdefinition - URL Opened
+[INFO ] 2026-02-04 23:06:05.634 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-02-04 23:06:05.634 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-02-04 23:06:05.856 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-02-04 23:06:05.856 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-02-04 23:06:06.044 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (610dad87cbe8859411e234ddaa2e9706)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-02-04 23:06:16.053 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-02-04 23:06:16.218 [main] Login - Login click:[[ChromeDriver: chrome on windows (610dad87cbe8859411e234ddaa2e9706)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-02-04 23:06:16.219 [main] Stepdefinition - Login clicked
+[INFO ] 2026-02-04 23:06:53.670 [main] Login - Force Login clicked
+[INFO ] 2026-02-04 23:06:53.670 [main] Stepdefinition - Force Login clicked
+[INFO ] 2026-02-04 23:07:03.821 [main] Login - Enter OTP
+[INFO ] 2026-02-04 23:07:03.827 [main] Stepdefinition - OTP Entered
+[INFO ] 2026-02-04 23:07:10.021 [main] Login - Second captcha entered
+[INFO ] 2026-02-04 23:07:10.021 [main] Stepdefinition - Second Captcha
+[INFO ] 2026-02-04 23:07:11.511 [main] Login - Final Verify
+[INFO ] 2026-02-04 23:07:12.516 [main] Stepdefinition - Verified
+[INFO ] 2026-02-04 23:07:12.527 [main] class - Application Closed
+[INFO ] 2026-02-04 23:35:19.389 [main] class - Browser Open
+[INFO ] 2026-02-04 23:35:19.634 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-02-04 23:35:20.873 [main] Stepdefinition - URL Opened
+[INFO ] 2026-02-04 23:35:21.188 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-02-04 23:35:21.188 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-02-04 23:35:21.382 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-02-04 23:35:21.382 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-02-04 23:35:21.546 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (3c5de845f0bdde92be7ce57083a6db96)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-02-04 23:35:31.563 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-02-04 23:35:31.731 [main] Login - Login click:[[ChromeDriver: chrome on windows (3c5de845f0bdde92be7ce57083a6db96)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-02-04 23:35:31.731 [main] Stepdefinition - Login clicked
+[INFO ] 2026-02-04 23:35:42.483 [main] Login - Force Login clicked
+[INFO ] 2026-02-04 23:35:42.483 [main] Stepdefinition - Force Login clicked
+[INFO ] 2026-02-04 23:35:57.836 [main] class - Browser Open
+[INFO ] 2026-02-04 23:35:58.118 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-02-04 23:36:00.188 [main] Stepdefinition - URL Opened
+[INFO ] 2026-02-04 23:36:00.475 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-02-04 23:36:00.475 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-02-04 23:36:00.687 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-02-04 23:36:00.687 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-02-04 23:36:00.864 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (dcef86e48c95a264f8c922ab93f1addf)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-02-04 23:36:10.873 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-02-04 23:36:11.036 [main] Login - Login click:[[ChromeDriver: chrome on windows (dcef86e48c95a264f8c922ab93f1addf)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-02-04 23:36:11.036 [main] Stepdefinition - Login clicked
+[INFO ] 2026-02-04 23:36:46.818 [main] Login - Force Login clicked
+[INFO ] 2026-02-04 23:36:46.818 [main] Stepdefinition - Force Login clicked
+[INFO ] 2026-02-04 23:36:56.982 [main] Login - Enter OTP
+[INFO ] 2026-02-04 23:36:56.982 [main] Stepdefinition - OTP Entered
+[INFO ] 2026-02-04 23:37:03.156 [main] Login - Second captcha entered
+[INFO ] 2026-02-04 23:37:03.158 [main] Stepdefinition - Second Captcha
+[INFO ] 2026-02-04 23:37:04.741 [main] Login - Final Verify
+[INFO ] 2026-02-04 23:37:05.750 [main] Stepdefinition - Verified
+[INFO ] 2026-02-04 23:37:05.755 [main] class - Application Closed
+[INFO ] 2026-04-23 22:58:02.739 [main] class - Browser Open
+[INFO ] 2026-04-23 22:58:02.970 [main] Stepdefinition - Launching website: https://admintest.gailgas-png.in/
+[INFO ] 2026-04-23 22:58:04.642 [main] Stepdefinition - URL Opened
+[INFO ] 2026-04-23 22:58:04.826 [main] Login - Entered username:apati@keypoint-tech.com
+[INFO ] 2026-04-23 22:58:04.826 [main] Stepdefinition - Username: {}apati@keypoint-tech.com
+[INFO ] 2026-04-23 22:58:04.956 [main] Login - Entered PasswordPallavi@2
+[INFO ] 2026-04-23 22:58:04.956 [main] Stepdefinition - Userpassword: {}Pallavi@2
+[INFO ] 2026-04-23 22:58:05.219 [main] Login - Entered captcha[[ChromeDriver: chrome on windows (ccd031cd63ca7891c920b75e7b42df2e)] -> xpath: //input[@id='CaptchaInputText']]
+[INFO ] 2026-04-23 22:58:15.226 [main] Stepdefinition - Captcha Entered
+[INFO ] 2026-04-23 22:58:15.408 [main] Login - Login click:[[ChromeDriver: chrome on windows (ccd031cd63ca7891c920b75e7b42df2e)] -> xpath: //button[text()='Login']]
+[INFO ] 2026-04-23 22:58:15.410 [main] Stepdefinition - Login clicked
